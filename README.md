@@ -4,7 +4,7 @@
   <img src="logo.png" alt="THO Delete Register Logo" width="800"/>
   
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-  [![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/uPESr5v7yQ)
+  [![Discord](https://img.shields.io/discord/1396624126256349256?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/uPESr5v7yQ)
 </div>
 
 ## 🚀 Vista General
@@ -62,4 +62,5 @@ El ejecutable se generará en la carpeta `dist`.
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
+
 
