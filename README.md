@@ -30,8 +30,8 @@ THO DELETE REGISTER es una herramienta profesional para limpiar registros del si
 ### Pasos de Instalación
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/your-username/tho-delete-register.git
-cd tho-delete-register
+git clone https://github.com/HANNIBAL-THO/THO-DELETE-REGISTER.git
+cd THO-DELETE-REGISTER
 ```
 
 2. Ejecuta el instalador:
@@ -47,7 +47,7 @@ build.bat
 El ejecutable se generará en la carpeta `dist`.
 
 ## 🎮 Uso
-1. Ejecuta `panel.py` o el ejecutable generado
+1. Ejecuta `panel.py o crea el .exe y ejecuta el RobloxPlayer.exe` o el ejecutable generado
 2. Haz clic en "LAUNCHER" para iniciar la limpieza
 3. El programa se autoeliminará al terminar
 
@@ -62,5 +62,6 @@ El ejecutable se generará en la carpeta `dist`.
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
+
 
 
