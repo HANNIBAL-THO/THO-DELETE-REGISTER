@@ -1,7 +1,7 @@
 # THO DELETE REGISTER
 
 <div align="center">
-  <img src="logo.png" alt="THO Delete Register Logo" width="200"/>
+  <img src="logo.png" alt="THO Delete Register Logo" width="500"/>
   
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   [![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/uPESr5v7yQ)
@@ -60,4 +60,5 @@ El ejecutable se generará en la carpeta `dist`.
 ¿Necesitas ayuda? Únete a nuestro [servidor de Discord](https://discord.gg/uPESr5v7yQ)
 
 ## 📝 Licencia
+
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
